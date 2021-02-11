@@ -1,0 +1,6 @@
+:root {
+  --colors: ;
+}
+#demo {
+  background-color: var(--colors);
+}
